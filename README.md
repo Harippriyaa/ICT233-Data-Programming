@@ -23,3 +23,5 @@ Topics:
   ● Database file processing
   ● CRUD on table structure
   ● DataFrame data structure
+
+I have uploaded my assignment(TMA) and final exam(TOA) question paper and codes.
